@@ -2,6 +2,8 @@ import pygame
 from pygame.locals import *
 import random
 
+print("Game started!")  # This confirms the script is executed
+
 # Initialize game settings
 size = x, y = (800, 800)
 space_w = int(x / 5)
@@ -201,5 +203,6 @@ while run:
             draw_background_and_elements()
 
         pygame.display.update()
+
 
 pygame.quit()
