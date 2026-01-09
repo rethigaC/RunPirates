@@ -2,7 +2,7 @@ import pygame
 from pygame.locals import *
 import random
 
-print("Game started!")  # This confirms the script is executed
+
 
 # Initialize game settings
 size = x, y = (800, 800)
@@ -206,3 +206,4 @@ while run:
 
 
 pygame.quit()
+
