@@ -15,7 +15,6 @@
 - ▶️ **Notebook execution support** to trigger the game via Jupyter/Binder
 - 🏁 **Progressive difficulty increments** every 2 obstacle crossings
 - 🖼️ **Image-based quiz display system**
-- 🎯 Designed for **placement-ready technical evaluation**
 
 ---
 
