@@ -1,6 +1,6 @@
 # 🏴‍☠️ RUN PIRATE RUN
 
-**RUN PIRATE RUN** is a real-time 2D adventure game built using **Python and Pygame**, designed to showcase interactive gameplay mechanics, progressive difficulty, timed quiz triggers, and efficient asset-based resource loading. This project is structured for easy execution locally and in notebook demo environments, making it ideal for recruiter walkthroughs and placement showcases.
+**RUN PIRATE RUN** is a real-time 2D adventure game built using **Python and Pygame**, designed to showcase interactive gameplay mechanics, progressive difficulty, timed quiz triggers, and efficient asset-based resource loading. This project is structured for easy execution locally and in notebook demo environments.
 
 ---
 
